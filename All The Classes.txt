@@ -1,0 +1,60 @@
+<html>
+	<table>
+	<tbody>
+	<tr>
+		<th scope="col">Course Number</th>
+		<th scope="col">Course Name</th>
+		<th scope="col">Credits</th>
+		<th scope="col">Teacher</th>
+	</tr>
+	<tr>
+		<td>11936</td>
+		<td>Business Law</td>
+		<td>3</td>
+		<td>Johnson</td>
+	</tr>
+	<tr>
+		<td>13145</td>
+		<td>Weight Training</td>
+		<td>1</td>
+		<td>Johnson</td>
+	</tr>
+	<tr>
+		<td>17640</td>
+		<td>Men's Health</td>
+		<td>1</td>
+		<td>Bridgers</td>
+	</tr>
+	<tr>
+		<td>16537</td>
+		<td>Web Authoring Tools</td>
+		<td>3</td>
+		<td>Henley</td>
+	</tr>
+	<tr>
+		<td>13967</td>
+		<td>Project Management</td>
+		<td>3</td>
+		<td>Argawal</td>
+	</tr>
+	<tr>
+		<td>14005</td>
+		<td>Information Systems Consulting</td>
+		<td>3</td>
+		<td>Buskey</td>
+	</tr>
+	<tr>
+		<td>14090</td>
+		<td>Entrepreneurship</td>
+		<td>3</td>
+		<td>Ogbolu</td>
+	</tr>
+	<tr>
+		<td>12219</td>
+		<td>Business Policy</td>
+		<td>3</td>
+		<td>Smith</td>
+	</tr>
+	</tbody>
+	</table>
+</html>
