@@ -1,0 +1,16 @@
+<html>
+<h1>You Know You Want To Hire Me...</h1>
+<body>
+<p>Comapny Name:<br />
+<input type = "text" name = "company name" /></p>
+<p>Position:<br />
+<input type = "text" name = "position" /></p>
+<p>Location:<br />
+<input type = "text" name = "location" /></p>
+<p>Vacation Days:<br />
+<input type = "number" name = "vacation days" /></p>
+<p>Pay:<br />
+$<input type = "number" name = "pay" /></p>
+<input type = "hidden" name = "password" value = "password" />
+</body>
+</html>
