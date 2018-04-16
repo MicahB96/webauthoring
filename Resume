@@ -1,0 +1,58 @@
+<html>
+<head>
+<style type = "text/css">
+h1 {
+  text-align: center;}
+h4 {
+  text-align: center;}
+h3 {
+  color: DarkCyan;}
+</style>
+</head>
+<div style = "text-align: center">
+<a href = "#objective">Objective</a>
+<a href = "#experience">Experience</a>
+<a href = "#education">Education</a>
+<a href = "#skills">Skills</a>
+</div>
+<h1 id = "top">Micah Boyer</h1>
+<h4>micahboyer@gmail.com | 443-xxx-xxx</h4>
+<body>
+<h3 id = "objective">Objective</h3>
+<p>
+Seeking position as Solutions Architect with ABC company to provide innovative solutions to company problems through team leadership, strategy execution and commitment to quality.
+</p>
+<h3 id = "experience">Experience</h3>
+<p>
+Job 1<br />
+<ul>
+<li>Description</li>
+</ul>
+Job 2<br />
+<ul>
+<li>Description</li>
+</ul>
+Job 3<br />
+<ul>
+<li>Description</li>
+</ul>
+</p>
+<h3 id = "education">Education</h3>
+<p>
+Howard University, Washington, D.C.<br />
+Bachelors of Business Administration in Management Information Systems<br />
+Expected Graduation Date: May 2018
+</p>
+<h3 id = "skills">Skills</h3>
+<p>
+<ul>
+<li>Proficient in HTML</li>
+<li>Proficient in JAVA</li>
+<li>Proficient in CSS</li>
+<li>Proficient in SQL</li>
+<li>Proficient in Microsoft Office - Word, Excel, PowerPoint, Access</li>
+<li>Basic understanding of French</li>
+</p>
+</body>
+<a href = "#top">Top of Page</a>
+</html>
