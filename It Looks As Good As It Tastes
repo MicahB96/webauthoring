@@ -1,0 +1,19 @@
+<html>
+<head>
+<h1>It Looks As Good As It Tastes</h1>
+</head>
+<body>
+<img src = "https://sparkpeo.hs.llnwd.net/e2/guid/Light-French-Toast/d26e74ed-e273-4501-8454-510bb8c24181.jpg" alt = "frenchtoast" width = "275" height = "183" />
+<p>French Toast. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec rutrum leo. Vivamus vulputate tortor et sapien sodales, sed dignissim turpis interdum. Donec nec tempor nunc. In suscipit dolor a ex volutpat, sit amet ornare neque maximus. Proin varius nisi eget quam placerat, quis malesuada augue sodales. Donec eu mi augue.</p> 
+
+<br />
+
+<p><img src = "https://www.seriouseats.com/recipes/images/2016/03/20160209-amatriciana-pasta-vicky-wasik-017-1500x1125.jpg" align = "left" alt = "pasta" width = "259" height = "194" />
+Pasta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec rutrum leo. Vivamus vulputate tortor et sapien sodales, sed dignissim turpis interdum. Donec nec tempor nunc. In suscipit dolor a ex volutpat, sit amet ornare neque maximus. Proin varius nisi eget quam placerat, quis malesuada augue sodales. Donec eu mi augue.</p> 
+
+<br />
+
+<p><img src = "http://enzospizzaco.com/images/award-winning-pizza-catering-no-video.jpg" align = "right" alt = "pizza" width = "275" height = "183" />
+Pizza. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec rutrum leo. Vivamus vulputate tortor et sapien sodales, sed dignissim turpis interdum. Donec nec tempor nunc. In suscipit dolor a ex volutpat, sit amet ornare neque maximus. Proin varius nisi eget quam placerat, quis malesuada augue sodales. Donec eu mi augue.</p>
+</body>
+</html>
