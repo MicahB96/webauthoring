@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+.links {
+  text-align: left}
+h1 {
+  text-align: left;}
+h3 {
+  text-align: left;}
+</style>
+</head>
+<h1 id = "top">Micah Boyer</h1>
+<hr>
+<body>
+<div class = "links">Sometown, MA 02108 | (555) 555-5555 | <a href = "mailto:ma@somedomain.com">ma@somedomain.com</a> | <a href = "https://www.linkedin.com/">LinkedIn URL</a></div>
+<h3>Entry-Level Help-Desk Technician</h3>
+<br/ >
+<h2>Education</h2>
+<h4>XYZ University, Sometown , MA | 108/120 Credits Earned</h4>
+<p>
+Pursuing a B.S. in Computer Information Systems | GPA: 3.7/4.0
+</p>
+<h2>Experience</h2>
+<h4>Help Desk Analyst (2016 to Present) | ABC Company, Sometown, MA</h4>
+<p>
+Handle technical troubleshooting within an entire environment, including system crashes, slows-downs and data recoveries. Engage and track Priority 1 issues, with responsibility for the timely documentation, resolution and closure of trouble tickets. Selected Contributions:<br />
+<ul>
+<li>Researched and developed knowledgebase articles for Windows 10 issues, resulting in a 35% increase in first-call resolutions and $5K in annual savings.</li>
+<li>Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores, consistently scoring between 95% and 100% on calls (outperforming average of 90%).</li>
+<li>Handled 30+ technical/mission-critical calls daily and consistently met high service standards.</li>
+</ul>
+<h4>Student Help Desk Technician (2015 to 2016) | XYZ University, Sometown, MA</h4>
+<p>Provide networking/desktop support and perform mainframe and account-maintenance tasks. Earned commendations for teamwork, flexibility and work excellence in providing IT support to students and faculty.<p/>
+<h4>Sales Representative (2015 to 2016) | ABC Retail Company, Sometown, MA</h4>
+<p>Leveraged strengths in persuasive communications and consultative sales to become a top sales performer for both retailers (including top 10 rankings out of a 100-member sales force.</p>
+<h2>Technology Summary</h2>
+<pre><b>Certifications</b>
+CompTIA A+, HDI-Support Center Analyst (HDI-SCA)</pre >
+<pre><b>Systems</b>
+CICS/ISPF/Mainframe, Unix, Linux, Windows, Novell NetWare, Mac OS X, Mobile</pre>
+<pre><b>Databases</b>
+Oracle, Access, Relational Databases</pre>
+<pre><b>Languages</b>
+Visual Basic, SQL, HTML, ASP, CSS, C++, CGI, Perl, JavaScript</pre>
+<pre><b>Software</b>
+MS Project, MS Visio, MS Office</pre>
+</body>
+</html>
