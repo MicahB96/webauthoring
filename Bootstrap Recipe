@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Breakfast Recipe</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+ 
+<div class="container">
+  <h2>French Toast</h2>
+  <div class="panel-heading">by Micah Boyer</div>
+  <p>As a kid, I would make french toast for breakfast, especially on cold mornings when I needed something warm and fulfilling to get my day started. French toast will forever be a favorite breakfast option.</p>
+  <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">Ingredients</div>
+      <div class="panel-body">
+      	<ul>
+      		<li>4 Slices of Bread</li>
+      		<li>1 Egg</li>
+      		<li>1 Tsp. of Vanilla Extract</li>
+      		<li>1/2 Tsp. of Ground Cinnamon</li>
+      		<li>1/4 Cup of Milk</li>
+    	</ul>
+     <div class="panel panel-default">
+      <div class="panel-heading">What to Do</div>
+       <div class="panel-body">
+     	<ol>
+      		<li>Beat egg, vanilla extract, and ground cinnamon in small bowl. Then stirin milk.</li>
+      		<li>Dip bread in mixture, coating both sides evenly.</li>
+      		<li>Cook bread slices on lightly greased, nonstick griddle until browned on both sides.</li>
+    	</ol>
+      </div>
+    </div>
+    
+</body>
+</html>
