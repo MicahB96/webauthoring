@@ -13,10 +13,10 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Micah Boyer's Website</a>
+      <a class="navbar-brand" href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Micah Boyer's Website</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
+      <li class="active"><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Home</a></li>
       <li><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Resume">Resume</a></li>
       <li><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Transcript">Transcript</a></li>
     </ul>
@@ -40,7 +40,7 @@ Maecenas sit amet pretium neque, quis aliquam risus. Quisque blandit magna odio,
         	<div class = "col-md-5">© Copyright MicahBoyer 2018.</div>
             <div class = "col-md-7">
             	<dl>
-                	<dt><a href = "#">Home</a></dt>
+                	<dt><a href = "https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Home</a></dt>
                 </dl>
             </div>
         </div>    
