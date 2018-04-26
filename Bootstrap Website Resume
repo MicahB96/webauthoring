@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Resume - Micah Boyer's Website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+.links {
+  text-align: left}
+h1 {
+  text-align: left;}
+h2,h5 {
+  color: grey;}
+</style>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Micah Boyer's Website</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Home</a></li>
+      <li><a href="#">Resume</a></li>
+      <li><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Transcript">Transcript</a></li>
+    </ul>
+  </div>
+</nav>
+<img src = "https://media.licdn.com/dms/image/C4E03AQFg92NebiBaFg/profile-displayphoto-shrink_200_200/0?e=1529838000&v=beta&t=oCyiTPM6ipqOmnNVLx8aLYO3fmse-MwTAPAugMxg1Fo" alt = "Bootstrap Resume Profile Picture" height = "380" width = "420">
+<h1 id = "top">MICAH M. BOYER</h1>
+<h4><a href = "#top">Share</a> | <a href = "#top">Download</a></h4>  
+<div class="container">
+<div class = "panel-heading">
+<h2>College Student</h2>
+</div>
+<div class = "panel-body">
+<ul>
+<li><a href = "#top">Howard University</a></li><br/ >
+<li><a href = "#top">(202) 806-6100</a></li><br/ >
+<li><a href = "mailto:micah.boyer@bison.howard.edu">micah.boyer@bison.howard.edu</a></li><br/ >
+<li><a href = "#top">Facebook</a></li><br />
+<li><a href = "#top">Twitter</a></li><br />
+<li><a href = "#top">LinkedIn</a></li><br />
+<li><a href = "#top">Instagram</a></li><br />
+</ul>
+</div>
+</div>
+<hr>
+<h3>PERSONAL STATEMENT</h3>
+<p>Hi, my name is Micah Boyer. I am a graduating senior, computer information systems major from Baltimore, MD. Fusce at mi nibh. Etiam quis ligula sapien. Nunc tincidunt tortor tempor, hendrerit enim et, posuere ipsum. Ut metus sapien, malesuada in augue a, condimentum convallis nisi. Aliquam vestibulum leo tellus, at pretium magna porta fringilla.</p>
+<br/ >
+<hr>
+<h3>EDUCATION & CERTIFICATION</h3>
+<h5>Howard University, Washington, D.C. | 100/120 Credits Earned</h5>
+<a href = "http://www.bschool.howard.edu/">Howard University School of Business</a><br />
+<p>
+Pursuing a B.B.A in Computer Information Systems
+</p>
+<br />
+<hr>
+<h3>JOB EXPERIENCES</h3>
+<h5>IT Risk Assurance Intern | EY, New York, NY</h5>
+<a href = "http://www.ey.com/">EY</a>
+<p>In augue enim, pharetra eget placerat ut, venenatis dictum dui. Ut commodo ultricies ante, eget feugiat orci ullamcorper eget. Duis porttitor purus feugiat dapibus venenatis. Integer sapien est, commodo quis lorem ut, porttitor tristique mi.</p><br />
+<hr>
+<h5>Summer Camp Counselor | LRRPC: Church Lane Summer Camp, Baltimore, MD</h5>
+<a href = "http://www.lrrpc.org/activities/summer-camp-church-lane-elementary">LRRPC - Church Lane Summer Camp</a>
+<p>Donec convallis aliquet orci, vel dictum ante fringilla ut. Ut justo est, pharetra a ullamcorper quis, mollis sed purus. Morbi nunc justo, malesuada vel mollis in, tempor ac magna.<p/><br/ >
+<hr>
+<h5>Computer Science Intern | NSA, Elkridge, MD</h5>
+<a href = "https://www.nsa.gov/">NSA</a>
+<p>In ligula massa, molestie non rutrum a, rutrum eget magna. Etiam vitae consectetur magna. Duis scelerisque nisi et leo scelerisque pharetra. Aliquam vel commodo nisi.</p><br/ >
+<hr>
+<h3>TECHNICAL SKILLS</h3>
+<pre><b>Certifications</b>
+None</pre >
+<pre><b>Systems</b>
+Windows, Mac OS X, Mobile</pre>
+<pre><b>Databases</b>
+Oracle, Access, Relational Databases</pre>
+<pre><b>Languages</b>
+SQL, HTML, CSS, C++, JavaScript</pre>
+<pre><b>Software</b>
+MS Project, MS Visio, MS Office</pre>
+</body>
+<footer class = "site-footer">
+	<div class = "container">
+    	<div class = "row">
+        <p><a href = "#top">Top of Page</a></p>
+    	</div>
+        <div class = "bottom-footer">
+        	<div class = "col-md-5">© Copyright MicahBoyer 2018.</div>
+            <div class = "col-md-7">
+            	<dl>
+                	<dt><a href = "https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Home</a></dt>
+                </dl>
+            </div>
+        </div>    
+    </div>
+</footer>
+</html>
