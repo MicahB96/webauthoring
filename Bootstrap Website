@@ -23,7 +23,7 @@
   </div>
 </nav>
 <div class="jumbotron">
-   <h2>Welcome!</h2>
+   <h2 id = "#top">Welcome!</h2>
 </div>  
 <div class="container">
  <p>This is the home page to Micah Boyer's website. There are links that will direct you to more information about Micah. If you would like to contact Micah directly, you can email him at <a href = "mailto:micahman914@gmail.com">micahman914@gmail.com</a>.
