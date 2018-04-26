@@ -12,17 +12,17 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Micah Boyer's Website</a>
+      <a class="navbar-brand" href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Micah Boyer's Website</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="  Fill Space  ">Resume</a></li>
+      <li class="active"><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Home</a></li>
+      <li><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website%20Resume">Resume</a></li>
       <li><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Transcript">Transcript</a></li>
     </ul>
   </div>
 </nav>
 <div class="container">
-  <h2>Micah Boyer | Spring Semester 2018</h2>            
+  <h2 id = "#top">Micah Boyer | Spring Semester 2018</h2>            
   <table class="table table-bordered">
     <thead>
       <tr>
@@ -85,4 +85,19 @@
   </table>
 </div>
 </body>
+<footer class = "site-footer">
+	<div class = "container">
+    	<div class = "row">
+        <p><a href = "#top">Top of Page</a></p>
+    	</div>
+        <div class = "bottom-footer">
+        	<div class = "col-md-5">© Copyright MicahBoyer 2018.</div>
+            <div class = "col-md-7">
+            	<dl>
+                	<dt><a href = "https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Website">Home</a></dt>
+                </dl>
+            </div>
+        </div>    
+    </div>
+</footer>
 </html>
