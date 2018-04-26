@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Full Website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Micah Boyer's Website</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Resume">Resume</a></li>
+      <li><a href="https://github.com/MicahB96/webauthoring/blob/master/Bootstrap%20Transcript">Transcript</a></li>
+    </ul>
+  </div>
+</nav>
+<div class="jumbotron">
+   <h2>Welcome!</h2>
+</div>  
+<div class="container">
+ <p>This is the home page to Micah Boyer's website. There are links that will direct you to more information about Micah. If you would like to contact Micah directly, you can email him at <a href = "mailto:micahman914@gmail.com">micahman914@gmail.com</a>.
+ <br />
+Maecenas sit amet pretium neque, quis aliquam risus. Quisque blandit magna odio, in posuere neque vulputate id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec condimentum feugiat sapien, in mattis purus tempus quis. Aenean elementum quis metus non posuere. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed vitae commodo enim. In lacus magna, rhoncus sed varius et, eleifend id ante. Pellentesque imperdiet, ex ut congue congue, nisl lorem porttitor mi, ut rhoncus mi ipsum vel tortor. Donec sed purus in dolor suscipit aliquet.</p>
+</div>
+</body>
+<footer class = "site-footer">
+	<div class = "container">
+    	<div class = "row">
+        <p><a href = "#top">Top of Page</a></p>
+    	</div>
+        <div class = "bottom-footer">
+        	<div class = "col-md-5">© Copyright MicahBoyer 2018.</div>
+            <div class = "col-md-7">
+            	<dl>
+                	<dt><a href = "#">Home</a></dt>
+                </dl>
+            </div>
+        </div>    
+    </div>
+</footer>
+</html>
